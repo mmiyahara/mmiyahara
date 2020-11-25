@@ -1,6 +1,4 @@
-### Hi there 👋
-
-[![mmiyahara's github stats](https://github-readme-stats.vercel.app/api?username=mmiyahara&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![mmiyahara's github stats](https://github-readme-stats.vercel.app/api?username=mmiyahara&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mmiyahara&layout=compact&theme=dracula&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
