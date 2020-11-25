@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![mmiyahara's github stats](https://github-readme-stats.vercel.app/api?username=mmiyahara)](https://github.com/anuraghazra/github-readme-stats)
+[![mmiyahara's github stats](https://github-readme-stats.vercel.app/api?username=mmiyahara&show_icons=true&theme=dracula&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
